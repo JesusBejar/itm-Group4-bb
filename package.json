@@ -1,0 +1,19 @@
+{
+  "name": "sprint1",
+  "version": "1.0.0",
+  "description": "simple node script to push",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesusBejar/itm-Group4-bb.git#Israel--Sprint1"
+  },
+  "author": "Israel Bejar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JesusBejar/itm-Group4-bb/issues"
+  },
+  "homepage": "https://github.com/JesusBejar/itm-Group4-bb/tree/Israel--Sprint1#readme"
+}
