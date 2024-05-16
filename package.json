@@ -1,7 +1,7 @@
 {
   "name": "sprint1",
   "version": "1.0.0",
-  "description": "simple node script to push",
+  "description": "simple node script to push, Tyler's branch",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
