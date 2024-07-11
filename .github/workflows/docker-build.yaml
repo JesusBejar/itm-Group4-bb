@@ -8,7 +8,7 @@ on:
       - closed
 
 env:
-  REPO_NAME: danielpenha/itm350-teamwork-bb
+  REPO_NAME: danielpenha/itm350-daniel-bb
 
 jobs:
   if_merged:
